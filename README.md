@@ -4,7 +4,7 @@ Baselining running processes on an established endpoint system involves establis
 ![Screenshot (88)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/aef524a6-54ec-4704-8ac8-7e217de08578)
 
 
-
+Velociraptor provides a wide range of predefined and customizable collection modules to gather various types of data from endpoints, including file system artifacts, registry entries, network connections, and running processes.
 
 
 

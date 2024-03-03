@@ -1,8 +1,6 @@
 
 ## Process baselining and Analysis
 
-
-
 Baselining running processes on an established endpoint system involves establishing a reference point for what processes are typically running under normal conditions. This can be useful for detecting anomalies or suspicious activity later on.
 
 <br/>
@@ -25,15 +23,8 @@ Velociraptor provides a wide range of predefined and customizable collection mod
 | ![Screenshot (114)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/76d97b28-7910-4b72-9435-3128cbcabd7b) | ![Screenshot (88)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/aef524a6-54ec-4704-8ac8-7e217de08578)|
 
 
-
- 
 <br/>
 <br/>
-
-
-
-
-
 
 |Windows.System.Pslist output            | Windows.System.Pslist output              |
 | ---------------------- | ---------------------- |
@@ -41,12 +32,9 @@ Velociraptor provides a wide range of predefined and customizable collection mod
 
 
 
-
-
-
-
 <br/>
 <br/>
+
 Velociraptor can collect forensic data from endpoints and store it in JSON format. 
  |Json           | CVS              |
 | ---------------------- | ---------------------- |

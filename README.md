@@ -35,7 +35,7 @@ Velociraptor provides a wide range of predefined and customizable collection mod
 <br/>
 <br/>
 
-Velociraptor can collect forensic data from endpoints and store it in JSON format. 
+Velociraptor can collect forensic data from endpoints and store it in JSON and CVS formats. Exporting data in CSV format allows users to easily import it into spreadsheet software like Microsoft Excel or Google Sheets for further analysis, visualization, or reporting.
  |Json           | CVS              |
 | ---------------------- | ---------------------- |
 | ![Screenshot (110)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/5afef217-f3e4-4321-aece-289c44110bc7)| ![Screenshot (111)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/489cdbf6-0a51-4cb3-b305-ac2d02a82f9f)|

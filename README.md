@@ -37,7 +37,7 @@ Velociraptor provides a wide range of predefined and customizable collection mod
 
 
 
-|Artifacts             | Artifacts               |
+|Windows.System.Pslist output            | Windows.System.Pslist output              |
 | ---------------------- | ---------------------- |
 | ![Screenshot (106)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/1c9c2f7f-a77d-467e-8455-a9512ec001b7) | ![Screenshot (108)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/4f7ee384-145c-44d2-8499-aa68701d7128)|
 

@@ -6,8 +6,7 @@
 Baselining running processes on an established endpoint system involves establishing a reference point for what processes are typically running under normal conditions. This can be useful for detecting anomalies or suspicious activity later on.
 
 <br/>
-<br/>
-<br/>
+
 
 Velociraptor provides a wide range of predefined and customizable collection modules to gather various types of data from endpoints, including file system artifacts, registry entries, network connections, and running processes.
 

@@ -1,21 +1,23 @@
 
 Baselining running processes on an established endpoint system involves establishing a reference point for what processes are typically running under normal conditions. This can be useful for detecting anomalies or suspicious activity later on.
 
-
+<br/>
+<br/>
+<br/>
 
  ![Screenshot (88)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/aef524a6-54ec-4704-8ac8-7e217de08578) ![Screenshot (89)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/2cb2698d-992f-4340-a5b6-e2b567569092) 
 
-
-  Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
-
-
-
-![Screenshot (113)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/13c5431f-5267-4ee1-bec4-6845e1cbb11e)
-![Screenshot (112)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/93fa3579-8179-472e-800a-d112d1c36c80)
-
 Velociraptor provides a wide range of predefined and customizable collection modules to gather various types of data from endpoints, including file system artifacts, registry entries, network connections, and running processes.
+
+ Velociraptor                | Artifacts
+:-------------------------:|:-------------------------:
+![Screenshot (113)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/13c5431f-5267-4ee1-bec4-6845e1cbb11e) | ![Screenshot (112)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/93fa3579-8179-472e-800a-d112d1c36c80)
+ |  
+
+
+
+
+
 
 
 

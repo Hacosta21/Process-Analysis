@@ -41,9 +41,9 @@ Velociraptor provides a wide range of predefined and customizable collection mod
 ![Screenshot (108)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/4f7ee384-145c-44d2-8499-aa68701d7128)
 
 
+ |Json           | CVS              |
+| ---------------------- | ---------------------- |
+| ![Screenshot (110)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/5afef217-f3e4-4321-aece-289c44110bc7)| ![Screenshot (111)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/489cdbf6-0a51-4cb3-b305-ac2d02a82f9f)|
 
 
 
-![Screenshot (110)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/5afef217-f3e4-4321-aece-289c44110bc7)
-
-![Screenshot (111)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/489cdbf6-0a51-4cb3-b305-ac2d02a82f9f)

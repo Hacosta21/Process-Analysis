@@ -4,15 +4,26 @@ Baselining running processes on an established endpoint system involves establis
 <br/>
 <br/>
 <br/>
+<pre>
+
+
+
+
+</pre>
+Velociraptor provides a wide range of predefined and customizable collection modules to gather various types of data from endpoints, including file system artifacts, registry entries, network connections, and running processes.
+
+
+ |Artifacts             | Artifacts               |
+| ---------------------- | ---------------------- |
+| ![Screenshot (112)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/01e29f3f-8862-4bf6-ae0d-4cf026e5f401) | ![Screenshot (113)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/e299cfc3-c8be-4445-9be2-ca8daaa35e81)|
+
+
+
 
  ![Screenshot (88)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/aef524a6-54ec-4704-8ac8-7e217de08578) ![Screenshot (89)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/2cb2698d-992f-4340-a5b6-e2b567569092) 
 
-Velociraptor provides a wide range of predefined and customizable collection modules to gather various types of data from endpoints, including file system artifacts, registry entries, network connections, and running processes.
 
 ![Screenshot (114)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/76d97b28-7910-4b72-9435-3128cbcabd7b)
-![Screenshot (113)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/e299cfc3-c8be-4445-9be2-ca8daaa35e81)
-
-![Screenshot (112)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/01e29f3f-8862-4bf6-ae0d-4cf026e5f401)
 
 ![Screenshot (116)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/81946a5a-0570-49c4-89d6-38be40fff154)
 ![Screenshot (115)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/561a5375-be26-49cc-94de-c93ba8c48411)

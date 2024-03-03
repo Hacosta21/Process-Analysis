@@ -20,7 +20,7 @@ Velociraptor provides a wide range of predefined and customizable collection mod
 <br/>
 
 
-|Artifacts             | Artifacts               |
+|New Hunt           | Artifact selection           |
 | ---------------------- | ---------------------- |
 | ![Screenshot (114)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/76d97b28-7910-4b72-9435-3128cbcabd7b) | ![Screenshot (88)](https://github.com/Hacosta21/Process-Analysis/assets/65152491/aef524a6-54ec-4704-8ac8-7e217de08578)|
 
